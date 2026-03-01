@@ -1,0 +1,14 @@
+public class Main {
+    public static void main(String[] args){
+        int a = 20;
+        short b = 2;
+        long c = 2536478590323;
+        double f = 34.678;
+        float d = 2.999;
+        decimal
+        String str = "Ananya";
+        Boolean e = true;
+
+
+    }
+}
